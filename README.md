@@ -26,3 +26,6 @@ For most tutorials, we will rely on the following standard scientific Python sta
 * `numpy`: For matrix math and differential equations.
 * `matplotlib`: For plotting neural activity and decision boundaries.
 * `scikit-learn`: For accessing datasets and evaluating models.
+
+
+**IMPORTANT**: The code in this repository is licensed under the MIT License. The educational text and documentation are licensed under CC BY-NC 4.0.
