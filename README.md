@@ -9,7 +9,7 @@ This course bridges the gap between biological neural networks and computational
 The tutorials are organized sequentially. Each folder contains the required Google Colab notebook (`.ipynb`), datasets, and supplementary materials.
 
 * **`Tutorial_01/`**
-    * **Topics:** Python fundamentals (Lists, Loops, Functions), McCulloch-Pitts Neuron, Perceptron learning rule, Simple Visualization / Rate-based models (wilson-cowan, population, mean-field, etc)
+    * **Topics:** Python fundamentals (Lists, Loops, Functions), McCulloch-Pitts Neuron, Perceptron learning rule, Simple Visualization / Rate-based models (Wilson-Cowan, population, mean-field, etc)
 * **`Tutorial_02/`**
     * *(Future tutorials will be linked here)*
 
